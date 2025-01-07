@@ -1,2 +1,2 @@
 # treasure-quest-game-python
-Treasure Quest Game
+Treasure Quest game.
