@@ -1,2 +1,2 @@
-# treasue-quest-game-python
+# treasure-quest-game-python
 Treasure Quest Game
